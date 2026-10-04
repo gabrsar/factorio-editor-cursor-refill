@@ -1,0 +1,9 @@
+{
+  "name": "editor-cursor-refill",
+  "version": "1.0.0",
+  "title": "Editor Cursor Refill",
+  "author": "Biel",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1.0"],
+  "description": "Automatically refills stackable cursor items when one remains, only while using /editor. Preserves item quality."
+}
